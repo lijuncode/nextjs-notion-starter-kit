@@ -54,12 +54,21 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
+      title: '使用指南',
+      pageId: '382d6a934de84098b6d3ed81c6fe7f1a'
+    },
+    {
+      title: '内购优惠',
+      pageId: '1556aacfee96461ebe293cda474e95aa'
+    },
+    {
       title: 'About',
-      pageId: '77144767acf54d518587279c78f5f974'
+      pageId: 'a3b4c691e7884d57b5aa3d12b80f7bf6'
     },
     {
       title: 'Contact',
       pageId: '61e073fcf8d24f71b4d2289f1a13178d'
-    }
+    },
+    
   ]
 })
